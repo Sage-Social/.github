@@ -1,5 +1,5 @@
 
-# Sage Chat
+# Sage Social
 
 ## Overview
 Welcome to Sage Social, where we provide a safe and kinder chat environment for kids with Sage Chat. In a world where digital addiction, social comparison, and online bullying are rampant, our mission is to create a secure platform that prioritizes the mental health and well-being of children.
