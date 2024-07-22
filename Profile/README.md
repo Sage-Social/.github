@@ -23,4 +23,4 @@ Let's Sage Chat™.
 ---
 
 ### Stay Connected
-- [Website](https://www.sagesocial.com.com)
+- [Website](https://www.sagesocial.com)
